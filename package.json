@@ -1,0 +1,17 @@
+{
+  "name": "xero_trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "express": "^4.16.4",
+    "node-modules": "^1.0.1",
+    "xero-node": "^3.0.16"
+  }
+}
